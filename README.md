@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-atharvathakkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-thakkar/)](https://www.linkedin.com/in/atharva-thakkar/)
 [![Gmail Badge](https://img.shields.io/badge/-atharvathakkar472002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atharvathakkar472002@gmail.com)](mailto:atharvathakkar472002@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://atharvathakkar.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
